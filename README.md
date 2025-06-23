@@ -1,6 +1,6 @@
 # LMS Web Page with Watson Assistant Integration  
 
-A modern Learning Management System (LMS) web page integrated with IBM Watson Assistant chatbot for enhanced user support and interaction.  
+A modern Learning Management System (LMS) web page integrated with IBM Watson Assistant chatbot for enhanced user support and interaction.
 
 [![Live Demo](https://img.shields.io/badge/-View%20Live%20Site-blue)](https://reeteesha-roy.github.io/lms-watson-assistant/)  
 
